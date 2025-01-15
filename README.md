@@ -41,8 +41,6 @@
 
 ## Here are some of my preferred tools 🚀 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=desobob11&hide=GLSL,Perl,ReScript,C%2b%2b,Makefile,C)
-
 ### Games and Application Development
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -73,6 +71,7 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=desobob11&hide=GLSL,Perl,ReScript,C%2b%2b,Makefile,C)
 
 <br></br>
 ## I would love to chat :coffee: 
