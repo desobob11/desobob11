@@ -4,11 +4,7 @@
 
 ### My educational background is in Computer Science and Economics, but what I like most is developing data utility apps and video games! :bar_chart: :space_invader:
 
-<p></p>
-
-<p></p>
-
-<p></p>
+<br></br>
 
 ## Pinned Repositories :pushpin:
 
