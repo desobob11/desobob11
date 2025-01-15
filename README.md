@@ -7,11 +7,21 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## 📌 Pinned Repositories
+## Pinned Repositories :pushpin:
 
 <a href="https://github.com/desobob11/Konkey-Dong">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=desobob11&repo=Konkey-Dong&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
+<a href="https://github.com/desobob11/RetailRenaissance">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=desobob11&RetailRenaissance&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/desobob11/SDLDoom">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=desobob11&SDLDoom&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
 
 
 
