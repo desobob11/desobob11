@@ -5,7 +5,7 @@
 
 <h1 align="center">Hey There :wave:  </h1>
 
-### My name is Desmond O'Brien :blush:  I am an upcoming graduate from the University of Calgary :straight_ruler: :notebook:
+### My name is Desmond :blush:  I am an upcoming graduate from the University of Calgary :straight_ruler: :notebook:
 
 ### My educational background is in Computer Science and Economics, but what I like most is developing data utility apps and video games! :bar_chart: :space_invader:
 
