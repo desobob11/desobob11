@@ -7,6 +7,32 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+## 📌 Pinned Repositories
+
+<a href="[https://github.com/Feromond/jacobs-portfolio-v2](https://github.com/desobob11/Konkey-Dong)">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=desobob11&repo=Konkey-Dong2&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Feromond/rust_snake_game">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=feromond&repo=rust_snake_game&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Feromond/hypixel-api-lib">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=feromond&repo=hypixel-api-lib&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/zamaniali1995/ml-pipeline">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zamaniali1995&repo=ml-pipeline&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Feromond/FilteringTechniques">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=feromond&repo=filteringtechniques&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Feromond/hypixel-bazaar-api">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=feromond&repo=hypixel-bazaar-api&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 ## Here are some of my preferred tools 🚀 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=desobob11&hide=GLSL,Perl,ReScript,C%2b%2b,Makefile)
