@@ -9,7 +9,7 @@
 
 ## 📌 Pinned Repositories
 
-<a href="[https://github.com/Feromond/jacobs-portfolio-v2](https://github.com/desobob11/Konkey-Dong)">
+<a href="[https://github.com/desobob11/Konkey-Dong](https://github.com/desobob11/Konkey-Dong)">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=desobob11&repo=Konkey-Dong2&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
