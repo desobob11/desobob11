@@ -13,6 +13,10 @@
 
 ## Pinned Repositories :pushpin:
 
+<a href="https://github.com/NickSavino/SiegeAndSorcery">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=nicksavino2&repo=SiegeAndSorcery&title_color=ffffff&text_color=c9cacc&icon_color=019443&bg_color=002410" />
+</a>
+
 <a href="https://github.com/desobob11/FakeNewsNLP">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=desobob11&repo=FakeNewsNLP&title_color=ffffff&text_color=c9cacc&icon_color=019443&bg_color=002410" />
 </a>
