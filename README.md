@@ -79,7 +79,7 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=desobob11&hide=GLSL,Perl,ReScript,C%2b%2b,Makefile,C)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=desobob11&hide=GLSL,Perl,ReScript,C%2b%2b,Makefile,C&text_color=c9cacc&icon_color=019443&bg_color=002410)
 
 
 
