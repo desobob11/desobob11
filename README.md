@@ -1,3 +1,8 @@
+
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:desmondobrien01@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/des-ob/)
+
+
 <h1 align="center">Hey There :wave:  </h1>
 
 ### My name is Desmond O'Brien :blush:  I am an upcoming graduate from the University of Calgary :straight_ruler: :notebook:
@@ -71,12 +76,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=desobob11&hide=GLSL,Perl,ReScript,C%2b%2b,Makefile,C)
-
-
-<br></br>
-## I would love to chat :coffee: 
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:desmondobrien01@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/des-ob/)
 
 
 
